@@ -1,7 +1,4 @@
 # BurgerBaron
-Guidelines:
-This assignment consists of programming and written work. Solutions should be a complete working Java program including your original work or cited contributions from other sources. These files should be compressed in a .zip file for submission through the Canvas link.
-This assignment is to be completed on your own or in a group of at most 3 students. If you choose to work in a group, this must be clear in your submission, and each group member must upload their own copy of the homework to Canvas. Please see the course syllabus or the course instructor for clarification on what is acceptable and unacceptable academic behavior regarding collaboration outside of a group of up to 3 students.
 
 Assignment:
 The Burger Baron will make custom burgers including any of the toppings on his famous Baron Burger. The Baron Burger is made on the special Baron Bun and has on it:
